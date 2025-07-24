@@ -3,7 +3,15 @@
 This project presents a Power BI dashboard analyzing **road accidents across the United Kingdom**. The dataset was sourced from Kaggle and cleaned using DAX functions to generate meaningful insights. The dashboard helps identify accident hotspots, time-based patterns, and vehicle-type risks.
 
 ---
+## 📁 Files in This Repository
 
+| File / Folder | Description |
+|---------------|-------------|
+| `Road_Accident.pbix` | Main Power BI project file |
+| `csv` | Collected Source file |
+| `images/`      | Exported visuals and dashboard screenshots |
+| `README.md`    | Project documentation |
+---
 ## 📦 Data Source
 
 - Dataset from [Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
