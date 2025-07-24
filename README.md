@@ -83,4 +83,4 @@ This project presents a Power BI dashboard analyzing **road accidents across the
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/uk-road-accident-dashboard.git
+   git clone https://github.com/nishanthselvakumar1302/Road_Accident_UK.git
