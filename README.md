@@ -61,13 +61,13 @@ This project presents a Power BI dashboard analyzing **road accidents across the
 > _Screenshots from Power BI:_
 
 ### 🔸 overview 
-![Accident Map](images/accident_map.png)
+![Accident Map](images/overview.png)
 
 ### 🔸 Hourly Trend  
-![Hourly Trend](images/hourly_trend.png)
+![Hourly Trend](images/time_analysis.png)
 
 ### 🔸 Severity by Vehicle Type  
-![Severity Chart](images/severity_by_vehicle.png)
+![Severity Chart](images/severity.png)
 
 ---
 
