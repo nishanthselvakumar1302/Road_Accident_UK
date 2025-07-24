@@ -6,7 +6,7 @@ This project presents a Power BI dashboard analyzing **road accidents across the
 
 ## 📦 Data Source
 
-- Dataset from  [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset))
+- Dataset from [Kaggle](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
 - Contains records of UK road accidents including:
   - Location
   - Date & time
