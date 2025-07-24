@@ -60,7 +60,7 @@ This project presents a Power BI dashboard analyzing **road accidents across the
 
 > _Screenshots from Power BI:_
 
-### 🔸 Accident Heat Map  
+### 🔸 overview 
 ![Accident Map](images/accident_map.png)
 
 ### 🔸 Hourly Trend  
